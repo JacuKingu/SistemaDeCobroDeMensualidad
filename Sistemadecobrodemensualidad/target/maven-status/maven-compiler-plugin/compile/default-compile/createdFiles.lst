@@ -1,0 +1,10 @@
+org\sistemadecobrodemensualidad\entidades\Mensaje_.class
+org\sistemadecobrodemensualidad\control\exceptions\IlegalesHuerfanasException.class
+org\sistemadecobrodemensualidad\entidades\Mensaje.class
+org\sistemadecobrodemensualidad\entidades\Persona.class
+org\sistemadecobrodemensualidad\entidades\Persona_.class
+org\sistemadecobrodemensualidad\control\exceptions\NoExisteEntidadException.class
+org\sistemadecobrodemensualidad\control\MensajeControl.class
+org\sistemadecobrodemensualidad\control\PersonaControl.class
+org\sistemadecobrodemensualidad\OpenJPA.class
+org\sistemadecobrodemensualidad\control\exceptions\EntidadPreexistenteException.class
