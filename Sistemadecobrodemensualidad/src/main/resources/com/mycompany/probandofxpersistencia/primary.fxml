@@ -15,6 +15,7 @@
       <Label text="Apellido" />
       <TextField fx:id="txtApellido" />
       <Button onAction="#agregar" text="Agregar" />
+      <Button onAction="#salir" text="Salir" />
    </children>
    <padding>
       <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />

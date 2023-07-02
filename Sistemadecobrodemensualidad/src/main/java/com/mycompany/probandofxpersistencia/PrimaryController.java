@@ -7,6 +7,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
+import static javafx.application.Platform.exit;
 import javafx.scene.control.Alert;
 import javafx.stage.Stage;
 
@@ -60,5 +61,10 @@ public class PrimaryController {
             alert.setContentText(alertMessage);
             alert.showAndWait();
         }
+    }
+    
+    @FXML
+    private void salir(){
+        exit();
     }
 }
